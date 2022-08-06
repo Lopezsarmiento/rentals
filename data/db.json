@@ -71,18 +71,6 @@
         "Wifi",
         "Pet friendly"
       ]
-    },
-    {
-      "id": 8,
-      "city": "Boston",
-      "address": "67 Maple Wood Circle",
-      "rooms": 2,
-      "price": "$138.60",
-      "tags": [
-        "Pool",
-        "Wifi",
-        "Pet friendly"
-      ]
     }
   ]
 }

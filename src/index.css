@@ -126,6 +126,28 @@
   cursor: pointer;
 }
 
+/* rental details */
+.rental-details article {
+  margin-top: 20px;
+}
+
+.rental-details h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+.rental-details div {
+  margin: 20px 0;
+}
+.rental-details button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
 /* Not found */
 
 .not-found h2 {

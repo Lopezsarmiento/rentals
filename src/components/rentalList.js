@@ -20,7 +20,7 @@ const RentalList = ({ rentals }) => {
           {rentals.map((rental) => (
             <div className="rental-preview" key={rental.id}>
               <div>
-                <Link to={`/blogs/${rental.id}`}>
+                <Link to={`/rentals/${rental.id}`}>
                   <h2>{rental.city}</h2>
                   <p>
                     Address: <strong>{rental.address}</strong>
@@ -28,7 +28,7 @@ const RentalList = ({ rentals }) => {
                 </Link>
               </div>
               <div>
-                <Link to={`/blogs/${rental.id}`}>
+                <Link to={`/rentals/${rental.id}`}>
                   <p>
                     Rooms: <strong>{rental.rooms}</strong>
                   </p>
@@ -38,7 +38,7 @@ const RentalList = ({ rentals }) => {
                 </Link>
               </div>
               <div className="rental-tags">
-                <Link to={`/blogs/${rental.id}`}>
+                <Link to={`/rentals/${rental.id}`}>
                   {rental.tags.map((tag) => (
                     <h5 key={tag}>{tag}</h5>
                   ))}
