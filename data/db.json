@@ -1,0 +1,88 @@
+{
+  "rentals": [
+    {
+      "id": 1,
+      "city": "Chicago",
+      "address": "466 Huxley Road",
+      "rooms": 5,
+      "price": "$159.12",
+      "tags": [
+        "Parking",
+        "Pool",
+        "Wifi",
+        "Pet friendly"
+      ]
+    },
+    {
+      "id": 2,
+      "city": "Houston",
+      "address": "721 Rusk Junction",
+      "rooms": 5,
+      "price": "$62.26",
+      "tags": [
+        "Parking",
+        "Pool",
+        "Wifi"
+      ]
+    },
+    {
+      "id": 3,
+      "city": "New York",
+      "address": "4245 Lawn Junction",
+      "rooms": 2,
+      "price": "$134.49",
+      "tags": [
+        "Wifi",
+        "Pet friendly"
+      ]
+    },
+    {
+      "id": 4,
+      "city": "San Francisco",
+      "address": "6323 Tennyson Center",
+      "rooms": 3,
+      "price": "$160.92",
+      "tags": [
+        "Pool",
+        "Wifi",
+        "Pet friendly"
+      ]
+    },
+    {
+      "id": 5,
+      "city": "San Diego",
+      "address": "63 Fulton Court",
+      "rooms": 3,
+      "price": "$95.16",
+      "tags": [
+        "Pool",
+        "Wifi"
+      ]
+    },
+    {
+      "id": 6,
+      "city": "Miami",
+      "address": "3400 Dawn Trail",
+      "rooms": 5,
+      "price": "$135.46",
+      "tags": [
+        "Parking",
+        "Pool",
+        "Wifi",
+        "Pet friendly"
+      ]
+    },
+    {
+      "id": 8,
+      "city": "Boston",
+      "address": "67 Maple Wood Circle",
+      "rooms": 2,
+      "price": "$138.60",
+      "tags": [
+        "Pool",
+        "Wifi",
+        "Pet friendly"
+      ]
+    }
+  ]
+}
